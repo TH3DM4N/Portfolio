@@ -1,2 +1,2 @@
 # Portfolio
-##This portfolio will contain all the work that represents my skills
+This portfolio will contain all the work that represents my skills
