@@ -8,9 +8,11 @@ This Repository consists of multiple types of work:
 
 ## Proof of Concepts
 1.DockerTest
-2.dotnet-docker-master
-3.ReduxTest
+This Folder contains a asp.net Core project with a dockerfile, in this project I first got to play around with docker.
+2.ReduxTest
+This Folder contains a Redux project, I tested some Redux concepts which are later used in the MusicBlend project
 4.SpotifyConnectPoC
+Since the MusicBlend project uses the SpotifyAPI i needed to test on how to make connection to it. The basis for the MusicBlend Project is made here.
 ## Research
 1.GroupProjectFiles
 2.MusicBlendFiles
