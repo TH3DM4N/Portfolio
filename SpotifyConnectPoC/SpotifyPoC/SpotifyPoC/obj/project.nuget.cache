@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "U06kUNAI84DJ8WBc43LyKCHAfFmwqAlMVkcUGQZ9WE6VxNPnpEJUI3ZmbtJyITcgyd0l5rW9kMKimgAlIyuEkQ==",
+  "success": true,
+  "projectFilePath": "X:\\ICT\\S3-DB01\\SpotifyConnectPoC\\SpotifyPoC\\SpotifyPoC\\SpotifyPoC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dylan Picus\\.nuget\\packages\\aspnet.security.oauth.spotify\\5.0.1\\aspnet.security.oauth.spotify.5.0.1.nupkg.sha512",
+    "C:\\Users\\Dylan Picus\\.nuget\\packages\\embedio\\3.4.3\\embedio.3.4.3.nupkg.sha512",
+    "C:\\Users\\Dylan Picus\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Dylan Picus\\.nuget\\packages\\spotifyapi.web\\6.0.0\\spotifyapi.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\Dylan Picus\\.nuget\\packages\\spotifyapi.web.auth\\6.0.0\\spotifyapi.web.auth.6.0.0.nupkg.sha512",
+    "C:\\Users\\Dylan Picus\\.nuget\\packages\\unosquare.swan.lite\\3.0.0\\unosquare.swan.lite.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,21 @@
+trigger:
+  batch: true
+  branches:
+    include:
+    - nightly
+  paths:
+    include:
+    - manifest.json
+    - manifest.versions.json
+    - src/*
+pr: none
+
+variables:
+- template: variables/core.yml
+- name: officialBranches
+  value: "'nightly'"
+
+stages:
+- template: ../common/templates/stages/build-test-publish-repo.yml
+  parameters:
+    testMatrixCustomBuildLegGroupArgs: --custom-build-leg-group test-dependencies

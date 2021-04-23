@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/.idea.wwwroot.iml
+/modules.xml
+/contentModel.xml
+/projectSettingsUpdater.xml
+# Datasource local storage ignored files
+/../../../../../../../../../../../../../../:\ICT\S3-DB01\AspNetCore.Docs-main\aspnetcore\fundamentals\websockets\samples\2.x\WebSocketsSample\wwwroot\.idea\.idea.wwwroot.dir\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

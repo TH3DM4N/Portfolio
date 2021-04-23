@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net5.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="AspNet.Security.OAuth.Spotify" Version="5.0.1" />
+      <PackageReference Include="SpotifyAPI.Web" Version="6.0.0" />
+      <PackageReference Include="SpotifyAPI.Web.Auth" Version="6.0.0" />
+    </ItemGroup>
+
+</Project>
