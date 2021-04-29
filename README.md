@@ -40,5 +40,5 @@ The MusicBlend project is tested and monitored by software called SonarQube, wit
 The proof for this learning outcome can mainly be found in the application files, in the MenuApp and MusicBlend folder are 2 projects located both having a CI/CD line. The projects contain a docker file and the respositories are build on a push to the master with an github actions file. This file pushes the repository to a docker hub account. The repository on docker hub is ran by an proxy server with the use of a docker-compose file.
 
 4. You act in a professional manner during software development and learning.
-5. 
+
 The conversations I have with my teacher are the proof of my professional skills and the development I am going through
